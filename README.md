@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/joleo182-pixel/visualizacion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tu puedes usr el [editor de GitHub](https://github.com/joleo182-pixel/visualizacion/edit/master/README.md) para mantener y previsualizar el contenido de tu sitio web en archivos Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
