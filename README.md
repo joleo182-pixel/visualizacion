@@ -2,26 +2,26 @@
 
 Tu puedes usr el [editor de GitHub](https://github.com/joleo182-pixel/visualizacion/edit/master/README.md) para mantener y previsualizar el contenido de tu sitio web en archivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sea la opcion que sea debes hacer commit a este repositorio, las paginas de GitHub correran [Jekyll](https://jekyllrb.com/) para reconstruir las paginas de tu sitio, de el contenido en tus archivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es un ligero y dacil de usar de sintaxis para mantenere escribirndo. Incluyendo las convenciones para
 
 ```markdown
-Syntax highlighted code block
+Sintaxis en bloque de codigo destacada
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Con viñetas
+- Lista
 
-1. Numbered
-2. List
+1. Numerados
+2. Lista
 
-**Bold** and _Italic_ and `Code` text
+**Bold** y _Italic_ y `Codigo` texto
 
 [Link](url) and ![Image](src)
 ```
